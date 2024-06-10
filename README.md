@@ -1,4 +1,4 @@
-<h1> Hola 👋, Mi Nombre es Maria Florencia</h1>
+<h1> 👋 Mi Nombre es Maria Florencia</h1>
 <hr>
 <div>
 <h3>Nueva en el mundo de la programación y el desarrollo de software, buscando siempre aprender y contribuir en proyectos innovadores</h3>
@@ -13,7 +13,7 @@ Disfruto colaborando en entornos dinámicos donde la creatividad y la innovació
 
 En este momento, estoy en búsqueda de nuevas oportunidades profesionales donde pueda aplicar mis habilidades y conocimientos para marcar una diferencia significativa. Mi sed de conocimiento es insaciable, por lo que siempre estoy buscando nuevas vías para expandir mis horizontes profesionales y adquirir experiencia.</h3>
  <br>
- <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="480" frameBorder="0" class="giphy-embed">
+
  <h3>Proyectos Realizados</h3>
  
  - 🏎 Mi primer trabajo individual [PI VIDEOGAMES](https://github.com/MariaFlorenciaGala/PI-Videogames)
