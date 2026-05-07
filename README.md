@@ -1,9 +1,4 @@
 <h1> 👋 Mi Nombre es Maria Florencia</h1>
-<hr>
-<div>
-<h3>Nueva en el mundo de la programación y el desarrollo de software, buscando siempre aprender y contribuir en proyectos innovadores</h3>
-</div>
-<hr>
 <div>
  <br>
  <h3>
