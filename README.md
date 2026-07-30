@@ -175,25 +175,6 @@ Aplicación web colaborativa desarrollada durante el bootcamp Henry con metodolo
 
 ---
 
-### Otros Proyectos
-
-| Proyecto | Descripción | Tecnología |
-|---|---|---|
-| ExamenNivel1 | Examen de ingreso Nivel 2 — Tecnicatura en Desarrollo Web Full Stack | CSS |
-| FT-M2 | Fundamentos de JavaScript — Módulo 2 | JavaScript |
-| FT-M3 | Fundamentos de JavaScript — Módulo 3 | JavaScript |
-| Portfolio | Portfolio personal v1 | TypeScript |
-| Pokedesk | Práctica de consumo de APIs | JavaScript |
-| PI-Countries | Proyecto individual — Países | JavaScript |
-| PI-HenryPokemon | Proyecto individual Pokémon | JavaScript |
-| PI-migracion | Proyecto de migración de datos | JavaScript |
-| YoProgramo-FrontEnd | Proyecto de Argentina Programa — Frontend | HTML |
-| CursoGitConFranco | Curso de Git y Git Flow | — |
-| wks-gitflow | Workshop de Git Flow | TypeScript |
-| Batalla-naval-Ejercicio-Node | Ejercicio de Node.js | JavaScript |
-
----
-
 ## 📫 Contacto
 
 - **LinkedIn:** [linkedin.com/in/mariflor](https://www.linkedin.com/in/mariflor/)
